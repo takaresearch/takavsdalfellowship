@@ -1,0 +1,16 @@
+# Exclude warehouse folder
+warehouse/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+*~
